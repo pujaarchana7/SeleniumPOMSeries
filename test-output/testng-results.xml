@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-13T15:51:32Z" name="Default suite" finished-at="2021-10-13T15:51:37Z" duration-ms="5099">
+    <groups>
+    </groups>
+    <test started-at="2021-10-13T15:51:32Z" name="Default test" finished-at="2021-10-13T15:51:37Z" duration-ms="5099">
+      <class name="com.qa.hubspot_tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hubspot_tests.LoginPageTest@2eae8e6e]" started-at="2021-10-13T15:51:32Z" name="setUp" finished-at="2021-10-13T15:51:37Z" duration-ms="4564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot_tests.LoginPageTest@2eae8e6e]" started-at="2021-10-13T15:51:37Z" name="verifyLoginPageTitleTest" finished-at="2021-10-13T15:51:37Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method signature="verifyForgotPwdLinkPresentTest()[pri:2, instance:com.qa.hubspot_tests.LoginPageTest@2eae8e6e]" started-at="2021-10-13T15:51:37Z" name="verifyForgotPwdLinkPresentTest" finished-at="2021-10-13T15:51:37Z" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdLinkPresentTest -->
+        <test-method signature="doLoginTest()[pri:3, instance:com.qa.hubspot_tests.LoginPageTest@2eae8e6e]" started-at="2021-10-13T15:51:37Z" name="doLoginTest" finished-at="2021-10-13T15:51:37Z" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+      </class> <!-- com.qa.hubspot_tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
